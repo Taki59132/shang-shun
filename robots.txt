@@ -1,0 +1,13 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+Allow: /archives/ 
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
+
+Sitemap: https://taki59132.github.io/shangshun/sitemap.xml
+Sitemap: https://taki59132.github.io/shangshun/baidusitemap.xml
