@@ -9,5 +9,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: https://taki59132.github.io/shangshun/sitemap.xml
-Sitemap: https://taki59132.github.io/shangshun/baidusitemap.xml
+Sitemap: https://taki59132.github.io/shang-shun/sitemap.xml
+Sitemap: https://taki59132.github.io/shang-shun/baidusitemap.xml
